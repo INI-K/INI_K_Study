@@ -1,0 +1,1 @@
+/Users/ini-k/INI-K_Study/for/build/classes/kotlin/main/MainKt.class:/Users/ini-k/INI-K_Study/for/build/classes/kotlin/main/Person.class:/Users/ini-k/INI-K_Study/for/build/classes/kotlin/main/Student.class
